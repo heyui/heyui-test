@@ -1,0 +1,27 @@
+{
+  "name": "heyui-admin",
+  "version": "1.0.0",
+  "description": "HeyUI components framework.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyui/heyui-admin.git"
+  },
+  "homepage": "http://admin.heyui.top/",
+  "keywords": [
+    "vue",
+    "ui",
+    "framework"
+  ],
+  "author": {
+    "name": "vvpvvp"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "heyui": "^1.20.3",
+    "iview": "^3.4.2",
+    "vue": "^2.5.16"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}
